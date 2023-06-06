@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b055c62c-bab4-4a1f-b283-7f0ef058fc11" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/libraries/postgresql_42_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/out/production/Client/ClientApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/out/production/Client/database/PostgreSql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/.idea/libraries/postgresql_42_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/Client2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/lib/postgresql-42.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/out/production/CSE4074Project-ActivityServer/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/out/production/CSE4074Project-ActivityServer/database/PostgreSql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/out/production/CSE4074Project-ActivityServer/handler/activity/HandlerActivityServerAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/out/production/CSE4074Project-ActivityServer/handler/activity/HandlerActivityServerCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/out/production/CSE4074Project-ActivityServer/handler/activity/HandlerActivityServerDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/out/production/CSE4074Project-ActivityServer/handler/activity/RequestHandlerActivityServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/out/production/CSE4074Project-ActivityServer/handler/activity/RootHandlerActivityServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/out/production/CSE4074Project-ActivityServer/util/Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/out/production/Client2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/out/production/Client2/database/PostgreSql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/out/production/P2P-Messaging-App-Java/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/out/production/P2P-Messaging-App-Java/database/PostgreSql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/out/production/Server/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/out/production/Server/database/PostgreSql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/src/database/PostgreSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DigitalSignature.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/digital_signature.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DigitalSignature/DigitalSignature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DigitalSignature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P2P-Messaging-App-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSAKeyPairGenerator/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSAKeyPairGenerator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSAKeyPairGenerator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSAKeyPairGenerator/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSAKeyPairGenerator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSAKeyPairGenerator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSAKeyPairGenerator/RSAKeyPairGenerator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSAKeyPairGenerator/keys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSAKeyPairGenerator/out/production/RSAKeyPairGenerator/RSAKeyPairGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSAKeyPairGenerator/src/RSAKeyPairGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/libraries/postgresql_42_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/src/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SymmetricKeyGeneration/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SymmetricKeyGeneration/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SymmetricKeyGeneration/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SymmetricKeyGeneration/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SymmetricKeyGeneration/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SymmetricKeyGeneration/SymmetricKeyGeneration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SymmetricKeyGeneration/out/production/SymmetricKeyGeneration/SymmetricKeyGeneration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SymmetricKeyGeneration/private_key.der" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SymmetricKeyGeneration/public_key.der" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SymmetricKeyGeneration/src/SymmetricKeyGeneration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SymmetricKeyGeneration/symmetrickeys.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QnlOuumBPdJ4htwuoMEGriOh3h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b055c62c-bab4-4a1f-b283-7f0ef058fc11" name="Changes" comment="" />
+      <created>1685997199264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685997199264</updated>
+      <workItem from="1685997201113" duration="655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

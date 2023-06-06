@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68163bcf-754c-4f8a-a28b-92febc903f52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/libraries/postgresql_42_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/out/production/Client/ClientApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/out/production/Client/database/PostgreSql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/postgresql-42.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CSE4074Project-ActivityServer/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CSE4074Project-ActivityServer/database/PostgreSql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CSE4074Project-ActivityServer/handler/activity/HandlerActivityServerAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CSE4074Project-ActivityServer/handler/activity/HandlerActivityServerCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CSE4074Project-ActivityServer/handler/activity/HandlerActivityServerDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CSE4074Project-ActivityServer/handler/activity/RequestHandlerActivityServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CSE4074Project-ActivityServer/handler/activity/RootHandlerActivityServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CSE4074Project-ActivityServer/util/Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Client2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Client2/database/PostgreSql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/P2P-Messaging-App-Java/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/P2P-Messaging-App-Java/database/PostgreSql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Server/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Server/database/PostgreSql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/PostgreSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P2P-Messaging-App-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/libraries/postgresql_42_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/src/ClientHandler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QnaaA43kH7wDjifJVWTuPkWvPZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/mehmetalperkarabay/Desktop/P2P-Messaging-App-Java/Client2",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68163bcf-754c-4f8a-a28b-92febc903f52" name="Changes" comment="" />
+      <created>1685991860538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685991860538</updated>
+      <workItem from="1685991862006" duration="1303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
