@@ -1,0 +1,3 @@
+Ciphertext: 29kRj23FNwE5L2q8pxCQQgJb7enM+bNjaCbeLXuFjvy/VBQeWgfg+ZfLNmbNP8z/q+/DL8qg5bAo+73Uf8tzs1BPqttjER2tvkIA5WqX7gtF5lR3rC5wmcEaRUBA2R1+
+Decrypted Message: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales mauris ac tristique.
+New Ciphertext (with different IV): wrzgvDRC7BV4Whl1N2kRJBAUm9uekabjqHl6sjc0W73TExkqHsCKtq1e4aoIg5cALOtRJDAEqUFrN/juOU/Ty6SrvV3FwRsObHo+kSWO/yMUatt/lRPO1lSoI12UdQC1
